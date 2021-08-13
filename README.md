@@ -21,6 +21,7 @@ Now the downloader won't bring you junk software
 Contact:
 E-mail:LemonQu@outlook.com 
 
+Sorry for the fact that the Batch file don't have an English version.It will be released soon.
 
 这是我第一次上传Github项目，谢谢使用
 This is my first time uploading the Github project,thank you to use it.
